@@ -73,7 +73,6 @@ Each question is answered using optimized SQL queries.
 
 ### 10. Points earned in the first week of loyalty membership (all items = 2x)
 
-All queries are stored in the `/SQL_Solutions` folder.
 
 ---
 
