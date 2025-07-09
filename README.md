@@ -98,9 +98,8 @@ This case study helped me improve:
 
 ## 📐 Tools Used
 
-* SQL (PostgreSQL syntax)
+* SQL (SQL SERVER syntax)
 * DB Fiddle for execution/testing
-* Visual Studio Code for query management
 
 ---
 
