@@ -49,29 +49,39 @@ All tables are from the `Case_study_1_dannys_diner` schema.
 
 ---
 
-## 📊 Case Study Questions
+## 📊 Case Study Questions  & Solution 
 
 Each question is answered using optimized SQL queries.
 
 ### 1. Total amount each customer spent
+https://github.com/divyanshpatel128/SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-/blob/main/Solution_Queries/Questions_1.sql
 
 ### 2. Number of days each customer visited the restaurant
+https://github.com/divyanshpatel128/SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-/blob/main/Solution_Queries/Questions_2.sql
 
 ### 3. First item from the menu purchased by each customer
+https://github.com/divyanshpatel128/SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-/blob/main/Solution_Queries/Questions_3.sql
 
 ### 4. Most purchased item on the menu and how many times it was purchased
+https://github.com/divyanshpatel128/SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-/blob/main/Solution_Queries/Questions_4.sql
 
 ### 5. Most popular item for each customer
+https://github.com/divyanshpatel128/SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-/blob/main/Solution_Queries/Questions_5.sql
 
 ### 6. First item purchased by each customer after becoming a member
+https://github.com/divyanshpatel128/SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-/blob/main/Solution_Queries/Questions_6.sql
 
 ### 7. Item purchased just before becoming a member
+https://github.com/divyanshpatel128/SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-/blob/main/Solution_Queries/Questions_7.sql
 
 ### 8. Total items and amount spent before becoming a member
+https://github.com/divyanshpatel128/SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-/blob/main/Solution_Queries/Questions_8.sql
 
 ### 9. Points earned (10 points per \$1, sushi = 2x)
+https://github.com/divyanshpatel128/SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-/blob/main/Solution_Queries/Questions_9.sql
 
 ### 10. Points earned in the first week of loyalty membership (all items = 2x)
+https://github.com/divyanshpatel128/SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-/blob/main/Solution_Queries/Questions_10.sql
 
 
 ---
