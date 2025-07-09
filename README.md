@@ -1,5 +1,3 @@
-# SQL-Case-Study-Danny-s-Diner-8-Week-SQL-Challenge-
-
 # 🍣 SQL Case Study: Danny's Diner (8 Week SQL Challenge)
 
 This case study is part of the [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/) by **Data With Danny**. The project focuses on analyzing customer behavior, menu preferences, and loyalty program impact at a fictional Japanese restaurant called Danny's Diner.
