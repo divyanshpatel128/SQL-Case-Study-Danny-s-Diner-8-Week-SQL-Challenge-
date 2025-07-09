@@ -10,6 +10,22 @@ Danny, the restaurant owner, wants to analyze sales and customer data to make bu
 
 ---
 
+## 📌 Problem Statement
+
+Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
+
+He plans on using these insights to help him decide whether he should expand the existing customer loyalty program. Additionally, he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
+
+Danny has provided a sample of his overall customer data due to privacy issues, but he hopes these examples are enough to write fully functioning SQL queries to help him answer his questions.
+
+Danny has shared three key datasets for this case study:
+
+* `sales`
+* `menu`
+* `members`
+
+---
+
 ## 📝 Datasets Used
 
 All tables are from the `Case_study_1_dannys_diner` schema.
